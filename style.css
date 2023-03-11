@@ -17,3 +17,14 @@
   --LightLavender: hsl(241, 100%, 89%);
   --DarkGrayBlue: hsl(224, 30%, 27%);
 }
+
+body {
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+  
+}
+
+p{
+  font-size: 1.125rem;
+}
